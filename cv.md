@@ -56,3 +56,6 @@ function getSum (a, b)
 
 - **Hexlet:** 
   - [Beginner frontend developer](https://pre.hexlet.io/frontend/?utm_source=hexlet&utm_medium=referral&utm_campaign=base-frontend&utm_term=from_section_pre&_gl=1*1wv5mcn*_ga*MTE1MzY5Mzk4MS4xNjg3OTYzODU3*_ga_PM3R85EKHN*MTY4Nzk2Mzg1Ny4xLjEuMTY4Nzk2Mzg2Mi41NS4wLjA.*_ga_WWGZ6EVHEY*MTY4Nzk2Mzg1Ny4xLjEuMTY4Nzk2Mzg2Mi41NS4wLjA. "Preparatory course for the profession Frontend developer")
+
+## English
+**B1** (I had been practicing English, when I worked in the USA by the programm "Work and Travel")
