@@ -1,1 +1,164 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: sans-serif;
+    line-height: 1.4;
+    font-size: 18px;
+    background-color: #57595b;
+  }
+  
+  h1 {
+    font-size: 48px;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+  
+  h2 {
+    font-size: 24px;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+  
+  h3 {
+    font-size: 28px;
+    text-decoration: underline;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-transform: uppercase;
+  }
+  
+  h4 {
+    font-size: 22px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .cont-photo img {
+    filter: grayscale(100%);
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  .container {
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    justify-content: space-between;
+    background-color: white;
+  }
+  
+  .main-container {
+    display: flex;
+  }
+  
+  .cont-nav {
+    background-color: #7c7e80;
+  }
+  
+  .cont-header {
+    width: 700px;
+  }
+  
+  .cont-name {
+    text-align: end;
+    margin-top: 20px;
+    padding-right: 10px;
+    background-color: #7c7e80;
+    color: white;
+  }
+  
+  .cont-nav-list {
+    display: flex;
+    justify-content: flex-end;
+    text-transform: uppercase;
+    padding: 10px 0 10px 10px;
+  }
+  
+  .cont-nav-list-item {
+    margin-right: 10px;
+  }
+  
+  .main {
+    width: 100%;
+    background-color: #7c7e80;
+    padding: 20px 30px 20px 30px;
+    color: white;
+  }
+  
+  .cont-photo {
+    height: 347px;
+  }
+  
+  .education div {
+    margin-left: 20px;
+  }
+  
+  .education h4 {
+    margin-top: 10px;
+  }
+  
+  .education a {
+    color: black;
+  }
+  
+  .pre {
+    background-color: #ccced0;
+    color: black;
+  }
+  
+  .main h4 {
+    margin-top: 20px;
+  }
+  
+  .code,
+  .projects {
+    margin-top: 10px;
+  }
+  
+  .location-list {
+    display: flex;
+    align-items: center;
+  }
+ 
+  .projects {
+    text-align: center;
+  }
+  
+  .projects img {
+    box-shadow: 0 0 7px 7px rgba(0, 0, 0, 0.1);
+  }
+  
+  .cont-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    background-color: #ccced0;
+    padding: 10px 30px 10px 30px;
+  }
+  
+  .date {
+    text-transform: uppercase;
+  }
+  
+  .part1 {
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 2fr;
+  }
 
+  .part23 {
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 2fr;
+  }
