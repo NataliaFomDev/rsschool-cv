@@ -59,6 +59,10 @@
   
   .main-container {
     display: flex;
+    flex-direction: column;
+    background-color:#7c7e80;
+    padding: 20px;
+    color:aliceblue;
   }
   
   .cont-nav {
@@ -161,6 +165,4 @@
     display: grid;
     grid-template-rows: 1fr;
     grid-template-columns: 1fr 2fr;
-
   }
-
